@@ -7,7 +7,7 @@ This program provides a simple CLI interface for stress testing GET API's (POST 
 1. GO version 1.22 or later
     - On Fedora and Amazon Linux: `sudo dnf install golang`
     - On Ubuntu based distros: `sudo apt install golang`
-    - For MacOS and Windows refer to [https://go.dev/dl/]()
+    - For MacOS and Windows refer to [https://go.dev/dl/]()  
 That's it.
 
 ## Running the test
